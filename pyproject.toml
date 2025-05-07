@@ -1,0 +1,5 @@
+[project]
+name = "fastango"
+version = "0.1.0"
+description = "CLI for generating FastAPI projects with selectable templates :sparkles:"
+requires-python = ">=3.10"
