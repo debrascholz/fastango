@@ -5,3 +5,4 @@ description = "CLI for generating FastAPI projects with selectable templates :sp
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # handle the edge case from the last release
+# drop an unused branch
